@@ -1,9 +1,111 @@
 fileFormatVersion: 2
 guid: 96d6ef235b71d4e24b5f13476b5a95f7
-timeCreated: 1430512358
+timeCreated: 1430515990
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: lanzamientoIzq_0
+    21300002: lanzamientoIzq_1
+    21300004: lanzamientoIzq_2
+    21300006: lanzamientoIzq_3
+    21300008: lanzamientoIzq_4
+    21300010: lanzamientoIzq_5
+    21300012: lanzamientoIzq_6
+    21300014: lanzamientoIzq_7
+    21300016: lanzamientoIzq_8
+    21300018: lanzamientoIzq_9
+    21300020: lanzamientoIzq_10
+    21300022: lanzamientoIzq_11
+    21300024: lanzamientoIzq_12
+    21300026: lanzamientoIzq_13
+    21300028: lanzamientoIzq_14
+    21300030: lanzamientoIzq_15
+    21300032: lanzamientoIzq_16
+    21300034: lanzamientoIzq_17
+    21300036: lanzamientoIzq_18
+    21300038: lanzamientoIzq_19
+    21300040: lanzamientoIzq_20
+    21300042: lanzamientoIzq_21
+    21300044: lanzamientoIzq_22
+    21300046: lanzamientoIzq_23
+    21300048: lanzamientoIzq_24
+    21300050: lanzamientoIzq_25
+    21300052: lanzamientoIzq_26
+    21300054: lanzamientoIzq_27
+    21300056: lanzamientoIzq_28
+    21300058: lanzamientoIzq_29
+    21300060: lanzamientoIzq_30
+    21300062: lanzamientoIzq_32
+    21300064: lanzamientoIzq_35
+    21300066: lanzamientoIzq_37
+    21300068: lanzamientoIzq_38
+    21300070: lanzamientoIzq_39
+    21300072: lanzamientoIzq_47
+    21300074: lanzamientoIzq_48
+    21300076: lanzamientoIzq_49
+    21300078: lanzamientoIzq_50
+    21300080: lanzamientoIzq_51
+    21300082: lanzamientoIzq_52
+    21300084: lanzamientoIzq_53
+    21300086: lanzamientoIzq_54
+    21300088: lanzamientoIzq_55
+    21300090: lanzamientoIzq_56
+    21300092: lanzamientoIzq_57
+    21300094: lanzamientoIzq_58
+    21300096: lanzamientoIzq_59
+    21300098: lanzamientoIzq_60
+    21300100: lanzamientoIzq_61
+    21300102: lanzamientoIzq_62
+    21300104: lanzamientoIzq_63
+    21300106: lanzamientoIzq_64
+    21300108: lanzamientoIzq_65
+    21300110: lanzamientoIzq_66
+    21300112: lanzamientoIzq_67
+    21300114: lanzamientoIzq_68
+    21300116: lanzamientoIzq_69
+    21300118: lanzamientoIzq_70
+    21300120: lanzamientoIzq_71
+    21300122: lanzamientoIzq_72
+    21300124: lanzamientoIzq_73
+    21300126: lanzamientoIzq_74
+    21300128: lanzamientoIzq_75
+    21300130: lanzamientoIzq_76
+    21300132: lanzamientoIzq_77
+    21300134: lanzamientoIzq_78
+    21300136: lanzamientoIzq_79
+    21300138: lanzamientoIzq_80
+    21300140: lanzamientoIzq_81
+    21300142: lanzamientoIzq_82
+    21300144: lanzamientoIzq_83
+    21300146: lanzamientoIzq_84
+    21300148: lanzamientoIzq_85
+    21300150: lanzamientoIzq_86
+    21300152: lanzamientoIzq_87
+    21300154: lanzamientoIzq_88
+    21300156: lanzamientoIzq_89
+    21300158: lanzamientoIzq_90
+    21300160: lanzamientoIzq_91
+    21300162: lanzamientoIzq_92
+    21300164: lanzamientoIzq_93
+    21300166: lanzamientoIzq_94
+    21300168: lanzamientoIzq_95
+    21300170: lanzamientoIzq_96
+    21300172: lanzamientoIzq_97
+    21300174: lanzamientoIzq_98
+    21300176: lanzamientoIzq_99
+    21300178: lanzamientoIzq_100
+    21300180: lanzamientoIzq_101
+    21300182: lanzamientoIzq_102
+    21300184: lanzamientoIzq_103
+    21300186: lanzamientoIzq_104
+    21300188: lanzamientoIzq_105
+    21300190: lanzamientoIzq_106
+    21300192: lanzamientoIzq_107
+    21300194: lanzamientoIzq_108
+    21300196: lanzamientoIzq_109
+    21300198: lanzamientoIzq_110
+    21300200: lanzamientoIzq_31
+    21300202: lanzamientoIzq_33
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -43,12 +145,1032 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 62
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: lanzamientoIzq_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1857
+        width: 153
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1856
+        width: 154
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1857
+        width: 154
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1857
+        width: 154
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1857
+        width: 154
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_5
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1868
+        width: 162
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_6
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1864
+        width: 174
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_7
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1841
+        width: 170
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1837
+        width: 171
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_9
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1842
+        width: 192
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_10
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1828
+        width: 179
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_11
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1883
+        width: 193
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1679
+        width: 192
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1679
+        width: 192
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1631
+        width: 206
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_15
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1624
+        width: 139
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_16
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1576
+        width: 97
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_17
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1616
+        width: 145
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_18
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1706
+        width: 257
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_19
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1621
+        width: 240
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_20
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1644
+        width: 201
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_21
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1630
+        width: 199
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1384
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1373
+        width: 222
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1382
+        width: 244
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_25
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1409
+        width: 247
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_26
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1409
+        width: 246
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1382
+        width: 231
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_28
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1382
+        width: 232
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_29
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1411
+        width: 226
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1206
+        width: 270
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_32
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1206
+        width: 302
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_35
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1206
+        width: 303
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_37
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1206
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_38
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1206
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_39
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1206
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1040
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1040
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_50
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_51
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_52
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_53
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_54
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_55
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_56
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1040
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 873
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 873
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_59
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_60
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_61
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_62
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_63
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_64
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_65
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_66
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 873
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 706
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 706
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_69
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_70
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_71
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_72
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_73
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_74
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_75
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_76
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 706
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 540
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 540
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_80
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 540
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_81
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 540
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_82
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 540
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_83
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 540
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_84
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 540
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_85
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 540
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_86
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 540
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 373
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_88
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 373
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_89
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 373
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_90
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 376
+        width: 196
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_91
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 381
+        width: 196
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_92
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 383
+        width: 198
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_93
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 373
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_94
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 373
+        width: 193
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_95
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 373
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_97
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 206
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_98
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 206
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_99
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 206
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_100
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 206
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_101
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 206
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_102
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 206
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_103
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 206
+        width: 194
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_104
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 211
+        width: 187
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_105
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 213
+        width: 183
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 180
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 46
+        width: 174
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 29
+        width: 184
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_109
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 31
+        width: 177
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_110
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 30
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1205
+        width: 224
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamientoIzq_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1204
+        width: 228
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

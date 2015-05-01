@@ -1,9 +1,102 @@
 fileFormatVersion: 2
 guid: 75ad2e4193b04412f8999b24a8b40d78
-timeCreated: 1430512334
+timeCreated: 1430516107
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: mareo_0
+    21300002: mareo_1
+    21300004: mareo_2
+    21300006: mareo_3
+    21300008: mareo_4
+    21300010: mareo_5
+    21300012: mareo_6
+    21300014: mareo_7
+    21300016: mareo_8
+    21300018: mareo_9
+    21300020: mareo_10
+    21300022: mareo_11
+    21300024: mareo_12
+    21300026: mareo_13
+    21300028: mareo_14
+    21300030: mareo_15
+    21300032: mareo_16
+    21300034: mareo_17
+    21300036: mareo_18
+    21300038: mareo_19
+    21300040: mareo_20
+    21300042: mareo_21
+    21300044: mareo_22
+    21300046: mareo_23
+    21300048: mareo_24
+    21300050: mareo_25
+    21300052: mareo_26
+    21300054: mareo_27
+    21300056: mareo_28
+    21300058: mareo_29
+    21300060: mareo_30
+    21300062: mareo_31
+    21300064: mareo_32
+    21300066: mareo_33
+    21300068: mareo_34
+    21300070: mareo_35
+    21300072: mareo_36
+    21300074: mareo_37
+    21300076: mareo_38
+    21300078: mareo_39
+    21300080: mareo_40
+    21300082: mareo_41
+    21300084: mareo_42
+    21300086: mareo_43
+    21300088: mareo_44
+    21300090: mareo_45
+    21300092: mareo_46
+    21300094: mareo_47
+    21300096: mareo_48
+    21300098: mareo_49
+    21300100: mareo_50
+    21300102: mareo_51
+    21300104: mareo_52
+    21300106: mareo_53
+    21300108: mareo_54
+    21300110: mareo_55
+    21300112: mareo_56
+    21300114: mareo_57
+    21300116: mareo_58
+    21300118: mareo_59
+    21300120: mareo_60
+    21300122: mareo_61
+    21300124: mareo_62
+    21300126: mareo_63
+    21300128: mareo_64
+    21300130: mareo_65
+    21300132: mareo_66
+    21300134: mareo_67
+    21300136: mareo_68
+    21300138: mareo_69
+    21300140: mareo_70
+    21300142: mareo_71
+    21300144: mareo_72
+    21300146: mareo_73
+    21300148: mareo_74
+    21300150: mareo_75
+    21300152: mareo_76
+    21300154: mareo_77
+    21300156: mareo_78
+    21300158: mareo_79
+    21300160: mareo_80
+    21300162: mareo_81
+    21300164: mareo_82
+    21300166: mareo_83
+    21300168: mareo_84
+    21300170: mareo_85
+    21300172: mareo_86
+    21300174: mareo_87
+    21300176: mareo_88
+    21300178: mareo_89
+    21300180: mareo_90
+    21300182: mareo_91
+    21300184: mareo_92
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -43,12 +136,942 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 73
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: mareo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1675
+        width: 184
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1675
+        width: 185
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1675
+        width: 184
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1675
+        width: 303
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1675
+        width: 228
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_5
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1675
+        width: 303
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_6
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1675
+        width: 265
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_7
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1675
+        width: 365
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_8
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1675
+        width: 366
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1452
+        width: 274
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1452
+        width: 365
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1464
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_12
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1455
+        width: 209
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1455
+        width: 188
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_14
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1464
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_15
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1455
+        width: 209
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_16
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1456
+        width: 214
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_17
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1456
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_18
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1456
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_19
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1456
+        width: 193
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1233
+        width: 194
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1233
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1233
+        width: 193
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_23
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1233
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1233
+        width: 191
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_25
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1233
+        width: 214
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_26
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1237
+        width: 218
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_27
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1231
+        width: 185
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_28
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1234
+        width: 187
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_29
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1236
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_30
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1236
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_31
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1236
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1015
+        width: 203
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1013
+        width: 203
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1013
+        width: 202
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_35
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1013
+        width: 201
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_36
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1012
+        width: 200
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_37
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1011
+        width: 199
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_38
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1011
+        width: 198
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_39
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1011
+        width: 198
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_40
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1011
+        width: 198
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_41
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1011
+        width: 198
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_42
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1009
+        width: 201
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_43
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1007
+        width: 204
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 780
+        width: 209
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_45
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 781
+        width: 206
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 787
+        width: 199
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_47
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 788
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_48
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 790
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_49
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 791
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_50
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 790
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_51
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 789
+        width: 203
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_52
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 789
+        width: 202
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_53
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 789
+        width: 202
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_54
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 789
+        width: 202
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_55
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 789
+        width: 202
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 562
+        width: 406
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_57
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 565
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_58
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 565
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_59
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 565
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_60
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 565
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_61
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 565
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_62
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 565
+        width: 202
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_63
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 570
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_64
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 566
+        width: 203
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_65
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 566
+        width: 201
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_66
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 566
+        width: 199
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 351
+        width: 203
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 349
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_69
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 347
+        width: 205
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_70
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 349
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_71
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 347
+        width: 202
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_72
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 351
+        width: 199
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_73
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 345
+        width: 188
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_74
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 340
+        width: 184
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_75
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 340
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_76
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 342
+        width: 178
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_77
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 345
+        width: 178
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_78
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 342
+        width: 180
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_79
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 340
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 181
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_81
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 118
+        width: 181
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_82
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 118
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_83
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 118
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_84
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 118
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_85
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 118
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_86
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 118
+        width: 181
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_87
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 118
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_88
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 118
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_89
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 118
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_90
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 119
+        width: 180
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_91
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 122
+        width: 180
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mareo_92
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 119
+        width: 178
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
