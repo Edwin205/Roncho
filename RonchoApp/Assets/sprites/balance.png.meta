@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 9d06d3811491845939a2125160057715
+timeCreated: 1430512532
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: balance_0
+    21300002: balance_1
+    21300004: balance_2
+    21300006: balance_3
+    21300008: balance_4
+    21300010: balance_5
+    21300012: balance_6
+    21300014: balance_7
+    21300016: balance_8
+    21300018: balance_9
+    21300020: balance_10
+    21300022: balance_11
+    21300024: balance_12
+    21300026: balance_13
+    21300028: balance_14
+    21300030: balance_15
+    21300032: balance_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: balance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 170
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 683
+        width: 189
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 683
+        width: 215
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 688
+        width: 216
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_4
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 689
+        width: 217
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 218
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 473
+        width: 222
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 474
+        width: 224
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 473
+        width: 222
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 218
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 264
+        width: 218
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 264
+        width: 218
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 263
+        width: 218
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 217
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 47
+        width: 215
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 188
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balance_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 47
+        width: 171
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
