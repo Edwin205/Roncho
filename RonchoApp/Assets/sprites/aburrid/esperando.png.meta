@@ -1,9 +1,15 @@
 fileFormatVersion: 2
 guid: da440ddcdc2eb4304829d78647c98068
-timeCreated: 1430519794
+timeCreated: 1430609071
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: esperando_0
+    21300002: esperando_1
+    21300004: esperando_2
+    21300006: esperando_3
+    21300008: esperando_4
+    21300010: esperando_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -43,12 +49,72 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 54
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: esperando_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 331
+        width: 137
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: esperando_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 331
+        width: 136
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: esperando_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 331
+        width: 149
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: esperando_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: esperando_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 139
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: esperando_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 139
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

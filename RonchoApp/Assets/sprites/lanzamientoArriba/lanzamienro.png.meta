@@ -1,9 +1,15 @@
 fileFormatVersion: 2
 guid: 454dcf090add14323854459de63a323d
-timeCreated: 1430520634
+timeCreated: 1430607353
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: lanzamienro_0
+    21300002: lanzamienro_1
+    21300004: lanzamienro_2
+    21300006: lanzamienro_3
+    21300008: lanzamienro_4
+    21300010: lanzamienro_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,7 +32,7 @@ TextureImporter:
   cubemapConvolutionSteps: 8
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
@@ -43,12 +49,72 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 67
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: lanzamienro_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 455
+        width: 170
+        height: 540
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamienro_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 338
+        width: 170
+        height: 657
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamienro_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 250
+        width: 169
+        height: 745
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamienro_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 168
+        width: 185
+        height: 827
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamienro_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 131
+        width: 188
+        height: 864
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lanzamienro_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 202
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
