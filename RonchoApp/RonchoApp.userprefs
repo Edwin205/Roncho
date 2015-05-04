@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ronchoControl.cs">
     <Files>
-      <File FileName="Assets\scripts\ronchoControl.cs" Line="56" Column="7" />
+      <File FileName="Assets\scripts\ronchoControl.cs" Line="43" Column="8" />
+      <File FileName="Assets\scripts\TouchLogic3D.cs" Line="69" Column="4" />
+      <File FileName="Assets\scripts\Itocuheble3D.cs" Line="10" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

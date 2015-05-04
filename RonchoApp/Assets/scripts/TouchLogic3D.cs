@@ -40,6 +40,8 @@ public class TouchLogic3D : MonoBehaviour {
 					case TouchPhase.Ended:
 						touchedObjects.OnTouchEnded();
 						break;
+
+
 					}
 				}
 		
