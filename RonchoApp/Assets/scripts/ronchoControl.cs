@@ -1,94 +1,80 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ronchoControl : MonoBehaviour, Itocuheble3D  
+public class ronchoControl : MonoBehaviour, Itocuheble3D
 {
 	public Animator animaciones;
 
-	public float minSwipeDistY;
-	public float minSwipeDistX;
-	private Vector2 startPos;
-	bool touched= false;
+	public Transform player; // Drag your player here
+	private Vector2 fp; // first finger position
+	private Vector2 lp; // last finger position
+	private bool tocado = false;
+
+
+
+
+
 
 	void Start()
 	{
 		animaciones = GetComponent<Animator>();
 
 	}
+	
+
+
+
 
 
 	void Update()
 	{
 
-		if(touched == true){
-		if (Input.touchCount > 0) {
-			
-			Touch touch = Input.touches [0];
-			
-			
-			
-			switch (touch.phase) {
-				
-			case TouchPhase.Began:
-				
-				startPos = touch.position;
-				
-				break;
-				
-				
-				
-			case TouchPhase.Ended:
-				
-				float swipeDistVertical = (new Vector3 (0, touch.position.y, 0) - new Vector3 (0, startPos.y, 0)).magnitude;
-				
-				if (swipeDistVertical > minSwipeDistY) {
-					
-					float swipeValue = Mathf.Sign (touch.position.y - startPos.y);
-					
-					if (swipeValue > 0) {
-						animaciones.Play ("lanzamientoArriba");
-					}//up swipe
-					
-					
-					
-					else if (swipeValue < 0) {
-						
-					}//down swipe
-					
-					
-					
-				}
-				
-				float swipeDistHorizontal = (new Vector3 (touch.position.x, 0, 0) - new Vector3 (startPos.x, 0, 0)).magnitude;
-				
-				if (swipeDistHorizontal > minSwipeDistX) {
-					
-					float swipeValue = Mathf.Sign (touch.position.x - startPos.x);
-					
-					if (swipeValue > 0) {
-						animaciones.Play ("lanzamientoDer");
-					}//right swipe
-					
-					
-					
-					else if (swipeValue < 0) {
-						animaciones.Play ("lanzamientoIzq");
-					}//left swipe
-					
-					
-					
-				}
-				break;
+		if(tocado == true){
+		foreach(Touch touch in Input.touches)
+		{
+			if (touch.phase == TouchPhase.Began)
+			{
+				fp = touch.position;
+				lp = touch.position;
 			}
-
+			if (touch.phase == TouchPhase.Moved )
+			{
+				lp = touch.position;
+			}
+			if(touch.phase == TouchPhase.Ended)
+			{
+				if((fp.x - lp.x) > 80) // left swipe
+				{
+					Debug.Log("hola que hace");
+				}
+				else if((fp.x - lp.x) < -80) // right swipe
+				{
+					//Debug.Log("hola adios");
+				}
+				else if((fp.y - lp.y) < -80 ) // up swipe
+				{
+						animaciones.Play("LanzamientoArriba");
+				}
+			}
 		}
-		if (Input.acceleration.magnitude > 3.5f) {
-
-			animaciones.Play ("mareoAni");
-
 		}
+
+	
+		if(Input.acceleration.magnitude > 3.5f){
+			
+			animaciones.Play("mareoAni");
+			
+		}
+		
+
+		
+		
 	}
-	}
+
+
+
+
+
 
 	
 	#region Itocuheble3D implementation
@@ -97,48 +83,43 @@ public class ronchoControl : MonoBehaviour, Itocuheble3D
 	
 	public void OnTouchBegan ()
 	{
-
-
-		touched = true;
-			
-
+		tocado = true;
+		Debug.Log ("fui tocado ");
+	//	animaciones.Play ("balance");
 	}
 	
 	public void OnTouchEnded ()
 	{
 
-		touched = false;
-	}
-
-	public void OnTouchMoved()
-	{
-
+		Debug.Log ("toque terminado ");
 
 	}
+
+
 
 	public void OnTouchEndedAnywhere(){
 
+		Debug.Log ("termine Donde sea ");
+		tocado = false;
+
+
 	}
 	
-	public void OnTouchStayed ()
-	{
 
-
-	}
 
 	public void OnTouchMovedAnywhere()
 	{
+
 
 	}
 	
 
 	public void OnTouchBeganAnywhere()
 	{
-
+		Debug.Log ("Empece donde sea");
 	}
 	
-	
-	
+
 	#endregion
 	
 	

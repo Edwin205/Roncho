@@ -3,8 +3,9 @@ using System.Collections;
 
 public class TouchLogic3D : MonoBehaviour {
 
-	private int touch2Wathc = 64;
+
 	public static int currTocuh = 0;
+	private int touch2wathch= 64;
 	private Ray ray;
 	private RaycastHit rayHitInfo = new RaycastHit();
 	private Itocuheble3D touchedObjects = null;
@@ -13,6 +14,11 @@ public class TouchLogic3D : MonoBehaviour {
 	
 	void Update () 
 	{
+
+
+
+
+
 		for(int i = 0; i < Input.touchCount;i++)
 		{
 			currTocuh = i;
@@ -21,38 +27,25 @@ public class TouchLogic3D : MonoBehaviour {
 			if(Physics.Raycast(ray, out rayHitInfo)){
 				
 				touchedObjects = rayHitInfo.transform.GetComponent(typeof(Itocuheble3D)) as Itocuheble3D;
-				Debug.Log(touchedObjects);
+
 				
 				if(touchedObjects != null){
 					switch(Input.GetTouch(i).phase)
 					{
 					case TouchPhase.Began:
 						touchedObjects.OnTouchBegan();
-						touch2Wathc = currTocuh;
+						touch2wathch = currTocuh;
 						break;
-
-
-					case TouchPhase.Moved:
-						touchedObjects.OnTouchMoved();
-						break;
-						
+				
 					case TouchPhase.Ended:
 						touchedObjects.OnTouchEnded();
 						break;
-						
-			
-						
-					case TouchPhase.Stationary:
-						touchedObjects.OnTouchStayed();
-						break;
-
-				    
-						
 					}
 				}
+		
 			}
 
-			else if(touchedObjects != null && touch2Wathc == currTocuh){
+			else if( touchedObjects != null && touch2wathch == currTocuh){
 					switch(Input.GetTouch(i).phase)
 					{
 				     
@@ -64,6 +57,7 @@ public class TouchLogic3D : MonoBehaviour {
 						touchedObjects.OnTouchEndedAnywhere();
 					touchedObjects = null;
 						break;
+	
 
 				case TouchPhase.Moved:
 
