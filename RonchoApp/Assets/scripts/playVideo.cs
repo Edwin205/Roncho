@@ -4,13 +4,16 @@ using System.Collections;
 public class playVideo : MonoBehaviour,Itocuheble3D {
 	#region Itocuheble3D implementation
 
-
+	void OnMouseDown()
+	{
+		Application.LoadLevel("ExampleNoneGui");
+	}
 
 
 
 	public void OnTouchBegan ()
 	{
-		Application.LoadLevel("video");
+		Application.LoadLevel("ExampleNoneGui");
 	}
 	public void OnTouchEnded ()
 	{
