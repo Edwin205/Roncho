@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: e3f8c8cad7fbe4758b0540b98d82f8e9
+timeCreated: 1430767029
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ojoIzq_0
+    21300002: ojoIzq_1
+    21300004: ojoIzq_2
+    21300006: ojoIzq_3
+    21300008: ojoIzq_4
+    21300010: ojoIzq_5
+    21300012: ojoIzq_6
+    21300014: ojoIzq_7
+    21300016: ojoIzq_8
+    21300018: ojoIzq_9
+    21300020: ojoIzq_10
+    21300022: ojoIzq_11
+    21300024: ojoIzq_12
+    21300026: ojoIzq_13
+    21300028: ojoIzq_14
+    21300030: ojoIzq_15
+    21300032: ojoIzq_16
+    21300034: ojoIzq_17
+    21300036: ojoIzq_18
+    21300038: ojoIzq_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 68
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ojoIzq_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 819
+        width: 171
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 823
+        width: 173
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 830
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 836
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 633
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 615
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 615
+        width: 181
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 615
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 411
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 411
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 411
+        width: 181
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 411
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 207
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 207
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 207
+        width: 181
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 207
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 180
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 4
+        width: 180
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 36
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoIzq_19
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 27
+        width: 205
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

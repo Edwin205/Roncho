@@ -51,7 +51,7 @@ public class ronchoControl : MonoBehaviour, Itocuheble3D
 	
 			if (Input.acceleration.magnitude > 3.5f) {
 				
-				animaciones.Play ("mareoAni");
+				animaciones.Play ("Mareo");
 				
 			}
 
@@ -64,8 +64,7 @@ public class ronchoControl : MonoBehaviour, Itocuheble3D
 	public void OnTouchBegan ()
 	{
 		tocado = true;
-		Debug.Log ("fui tocado ");
-	//	animaciones.Play ("balance");
+	
 	}
 	
 	public void OnTouchEnded ()

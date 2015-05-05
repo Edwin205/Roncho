@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 28728418413cd4a69b8f9910ca7fe763
+timeCreated: 1430769982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: risa_0
+    21300002: risa_1
+    21300004: risa_2
+    21300006: risa_3
+    21300008: risa_4
+    21300010: risa_5
+    21300012: risa_6
+    21300014: risa_7
+    21300016: risa_8
+    21300018: risa_9
+    21300020: risa_10
+    21300022: risa_11
+    21300024: risa_12
+    21300026: risa_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 74
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: risa_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 777
+        width: 184
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 781
+        width: 186
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 789
+        width: 209
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 795
+        width: 213
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 577
+        width: 230
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 562
+        width: 222
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 523
+        width: 246
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 269
+        width: 246
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 268
+        width: 247
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 315
+        width: 214
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 46
+        width: 186
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 42
+        width: 185
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 42
+        width: 184
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: risa_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 42
+        width: 185
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

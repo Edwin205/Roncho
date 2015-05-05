@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 2d037432adf76416398ec71c211045d7
+timeCreated: 1430767012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ojoDer_0
+    21300002: ojoDer_1
+    21300004: ojoDer_2
+    21300006: ojoDer_3
+    21300008: ojoDer_4
+    21300010: ojoDer_5
+    21300012: ojoDer_6
+    21300014: ojoDer_7
+    21300016: ojoDer_8
+    21300018: ojoDer_9
+    21300020: ojoDer_10
+    21300022: ojoDer_11
+    21300024: ojoDer_12
+    21300026: ojoDer_13
+    21300028: ojoDer_14
+    21300030: ojoDer_15
+    21300032: ojoDer_16
+    21300034: ojoDer_17
+    21300036: ojoDer_18
+    21300038: ojoDer_19
+    21300040: ojoDer_20
+    21300042: ojoDer_21
+    21300044: ojoDer_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ojoDer_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 836
+        width: 152
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 840
+        width: 154
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 846
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 851
+        width: 177
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 857
+        width: 183
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 845
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 654
+        width: 162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 653
+        width: 165
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 654
+        width: 162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 654
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 654
+        width: 164
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_11
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 654
+        width: 165
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 471
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 471
+        width: 168
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 468
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 468
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 468
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_17
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 468
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 284
+        width: 167
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 286
+        width: 168
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 286
+        width: 163
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 291
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojoDer_22
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 295
+        width: 173
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

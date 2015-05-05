@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: b0a903ff775b9423387ca7382d3cb5d3
+timeCreated: 1430771506
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heladoSprite_0
+    21300002: heladoSprite_1
+    21300004: heladoSprite_2
+    21300006: heladoSprite_3
+    21300008: heladoSprite_4
+    21300010: heladoSprite_5
+    21300012: heladoSprite_6
+    21300014: heladoSprite_7
+    21300016: heladoSprite_8
+    21300018: heladoSprite_9
+    21300020: heladoSprite_10
+    21300022: heladoSprite_12
+    21300024: heladoSprite_13
+    21300026: heladoSprite_14
+    21300028: heladoSprite_15
+    21300030: heladoSprite_16
+    21300032: heladoSprite_17
+    21300034: heladoSprite_18
+    21300036: heladoSprite_19
+    21300038: heladoSprite_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 68
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heladoSprite_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 796
+        width: 196
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 796
+        width: 168
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 800
+        width: 164
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 803
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_4
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 804
+        width: 167
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 812
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 812
+        width: 197
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_7
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 796
+        width: 242
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 236
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 522
+        width: 223
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 496
+        width: 222
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 472
+        width: 267
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 481
+        width: 348
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 388
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 130
+        width: 224
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 130
+        width: 267
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_17
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 130
+        width: 211
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 153
+        width: 226
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 165
+        width: 186
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heladoSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 130
+        width: 156
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
